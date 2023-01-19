@@ -2,3 +2,5 @@ experiment for making branches from a repository
 
 
 this is an edit for branch 2
+
+now branch 2 and main are the same because I merged them!
